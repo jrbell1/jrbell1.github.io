@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 1 Title](/sample_page2)
+[Project 1b Title](/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
