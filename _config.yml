@@ -1,15 +1,16 @@
 title: Jordan Bell # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am remote sensing scientist with a particular focus of identifying and analyzing the 
-  impacts of intense and severe thunderstorms, especially ones that bring large damaging hail. 
+  
   <br><br>
-  Second description 
-  <br><br>
-  [Project 1 Title](/sample_page)
   <a href ="https://jrbell1.github.io/publications">Publications</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href ="https://jrbell1.github.io/research">Research</a>
+  <br><br>
+  <a href ="https://twitter.com/muwxman">Twitter</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jrb42d/">View My LinkedIn Profile</a>
+  <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
